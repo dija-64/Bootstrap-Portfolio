@@ -21,3 +21,56 @@ body {
     bottom: 3px;
 
 }
+
+.contact {
+    background-color: var(--black);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    margin-bottom: 15px;
+    padding: 2px;
+    margin-top: 15px;
+}
+
+#contactInfo {
+    color: var(--white);
+    display: flex;
+    flex-direction: row;
+    width: 65%;
+    margin-right: 5px;
+    align-items: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+
+#contactInfo a:link,
+a:visited {
+    color: var(--white);
+    text-decoration: none;
+}
+
+#contactInfo a:hover {
+    color: var(--white);
+    text-shadow: 0px 0px 30px var(--white);
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    text-decoration: none;
+
+}
+
+#contactInfo a:active {
+    color: var(--white);
+    text-decoration: none;
+}
+
+#contactInfo p:hover {
+    color: var(--white);
+    text-shadow: 0px 0px 30px var(--white);
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
