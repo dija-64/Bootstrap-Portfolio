@@ -1,0 +1,23 @@
+body {
+    padding: 15px;
+    background-color: black;
+}
+
+#work {
+    display: grid;
+}
+
+.card {
+    width: 15rem;
+    display: grid;
+}
+
+.card-text {
+    text-align: center;
+    font-size: 15px;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    position: absolute;
+    bottom: 3px;
+
+}
