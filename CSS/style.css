@@ -58,6 +58,12 @@ a:visited {
     margin-bottom: 30px;
 }
 
+h2 {
+    padding: 40px;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
 #work {
     display: grid;
 }
@@ -87,12 +93,13 @@ a:visited {
     background-color: rgba(0, 0, 0, 0.3);
     color: #fff;
     padding: 10px;
-    position: absolute;
+    position: inherit;
     bottom: 0px;
     width: 100%;
     margin: 0;
 
 }
+
 
 .footer {
     background-color: #222;
