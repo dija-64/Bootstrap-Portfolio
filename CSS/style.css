@@ -132,7 +132,7 @@ a:visited {
 }
 
 #contactInfo a:hover {
-    color: var(--white);
+    color: rgb(50, 50, 50);
     text-shadow: 0px 0px 30px var(--white);
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
@@ -143,12 +143,12 @@ a:visited {
 }
 
 #contactInfo a:active {
-    color: var(--white);
+    color: black;
     text-decoration: none;
 }
 
 #contactInfo p:hover {
-    color: var(--white);
+    color: rgb(50, 50, 50);
     text-shadow: 0px 0px 30px var(--white);
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
