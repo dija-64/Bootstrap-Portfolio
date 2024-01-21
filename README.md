@@ -2,7 +2,7 @@
 A repository for the Module 3 Challenge, recreating my portfolio using Bootstrap.
 
 # Installation
-GitHub Pages:
+GitHub Pages: https://dija-64.github.io/Bootstrap-Portfolio/ 
 
 ![Alt text](<Screenshot (1662).png>) - New portfolio
 ![Alt text](<Screenshot (1656).png>) - Old portfolio
